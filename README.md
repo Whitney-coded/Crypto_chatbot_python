@@ -17,4 +17,4 @@ The chatbot uses a hardcoded dictionary of cryptocurrency data and simple rules 
 
 1. Clone this repo:
    ```bash
-   git clone 
+   git clone: https://github.com/Whitney-coded/Crypto_chatbot_python.git
