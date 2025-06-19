@@ -1,0 +1,29 @@
+bitcoin:
+  price_trend: rising
+  market_cap: high
+  energy_use: high
+  sustainability_score: "3/10"
+
+ethereum:
+  price_trend: stable
+  market_cap: high
+  energy_use: high
+  sustainability_score: "6/10"
+
+solana:
+  price_trend: volatile
+  market_cap: medium
+  energy_use: low
+  sustainability_score: "8/10"
+
+dogecoin:
+  price_trend: falling
+  market_cap: low
+  energy_use: medium
+  sustainability_score: "4/10"
+
+cardano:
+  price_trend: stable
+  market_cap: medium
+  energy_use: low
+  sustainability_score: "7/10"
